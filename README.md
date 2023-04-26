@@ -1,1 +1,2 @@
 # Location_based_Recommendation_System
+Data is scrapped from LinkedIn .Data is Provided related to Jobs title and industry domain . The objective is to understand the underlying structure in your dataset and come up with a suitable Recommendaton model which can be effectively recommend jobs location based on the Job profile. This recommendation model will be used by job seekers who are finding jobs based on the preference location ![image](https://user-images.githubusercontent.com/121040560/234590918-18d6987b-c01e-4efc-ae7a-e1af5ab0ad03.png)
